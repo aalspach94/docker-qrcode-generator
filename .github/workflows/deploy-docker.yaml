@@ -53,3 +53,4 @@ jobs:
               with:
                 push: true
                 tags: rooskie94/docker-qrcode-generator:latest
+                # tags: rooskie94/docker-qrcode-generator:$(github.sha) # TODO: Add version tag based on git tag or commit hash

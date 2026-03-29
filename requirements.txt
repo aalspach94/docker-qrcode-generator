@@ -1,2 +1,2 @@
-qrcode[pil]==8.2
 nicegui==3.9.0
+segno==1.6.6
